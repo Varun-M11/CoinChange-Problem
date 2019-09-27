@@ -8,11 +8,20 @@ def main2():
     minNumCoins = [None for i in range(amount+1)]
     usedCoins = [None for i in range(amount+1)]
 
-    print("Minimum no. of coins required: {}".format(find_min_coins(
-        coins, amount, numOfCoins, minNumCoins, usedCoins)))
+    flag = False
 
-    print("THe required coins are: ", end="")
-    print_used_coins(usedCoins, amount)
+    for i in range(len(coins)):
+        if coins[i] > amount:
+            flag = True
+            
+    if flag == True:
+        print("Please enter amount greater than the available denominations..")
+    else:
+        print("Minimum no. of coins required: {}".format(find_min_coins(
+            coins, amount, numOfCoins, minNumCoins, usedCoins)))
+        
+        print("The required coins are: ", end="")
+        print_used_coins(usedCoins, amount)
 
 
 if __name__ == "__main__":
