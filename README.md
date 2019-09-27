@@ -15,4 +15,4 @@
 
 
 # Files Description:
-- The files "Coin.py" and "CoinChange.py" computes the total number of combinations possible and the files "Minimum.py" and "MinCoinsReq.py" find outs minimum number of coins required to form the amount and also displays which coins are used to form the amount.
+- The files "Coin.py" and "CoinChange.py" computes the total number of combinations possible (i.e. Total No. of ways to form total) and the files "Minimum.py" and "MinCoinsReq.py" find outs minimum number of coins required to form the amount and also displays which coins are used to form the amount.
