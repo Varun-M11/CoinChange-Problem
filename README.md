@@ -20,9 +20,9 @@
 
 ---
 ### Contact:
-[LinkedIn](https://www.linkedin.com/in/varun-mishra-as-hactivistvm)
-[Twitter](https://twitter.com/_VarunM)
-[HackerRank](https://www.hackerrank.com/hacktivistvm)
- Email:  varun11mishra@gmail.com
+[LinkedIn](https://www.linkedin.com/in/varun-mishra-as-hactivistvm) |
+[Twitter](https://twitter.com/_VarunM) |
+[HackerRank](https://www.hackerrank.com/hacktivistvm) |
+ Email:  varun11mishra@gmail.com |
 
 ---
