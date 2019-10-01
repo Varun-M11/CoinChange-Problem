@@ -18,7 +18,11 @@
 # Files Description:
 - The files *Coin.py* and *CoinChange.py* has the main algorithm to compute the total number of combinations possible (i.e. Total No. of ways to form total) and the files *Minimum.py* and *MinCoinsReq.py* are the application of the algorithm to find out minimum number of coins required to form the amount and also displays which coins are used to form the amount.
 
+---
+### Contact:
+[LinkedIn](https://www.linkedin.com/in/varun-mishra-as-hactivistvm)
+[Twitter](https://twitter.com/_VarunM)
+[HackerRank](https://www.hackerrank.com/hacktivistvm)
+ Email:  varun11mishra@gmail.com
 
-## Contact:
-![LinkedIn](https://www.linkedin.com/in/varun-mishra-as-hactivistvm)
-
+---
