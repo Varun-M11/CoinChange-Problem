@@ -20,5 +20,5 @@
 
 
 ## Contact:
-![LinkedIn](https://markdown-here.com/img/icon256.png)
+![LinkedIn](https://www.linkedin.com/in/varun-mishra-as-hactivistvm)
 
